@@ -1,4 +1,4 @@
-package com.mcamilo.gymmanagerapp.ui.theme
+package com.mcamilo.gymmanagerapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

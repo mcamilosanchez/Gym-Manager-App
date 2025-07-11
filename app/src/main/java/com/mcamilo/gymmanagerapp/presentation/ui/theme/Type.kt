@@ -1,4 +1,4 @@
-package com.mcamilo.gymmanagerapp.ui.theme
+package com.mcamilo.gymmanagerapp.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
