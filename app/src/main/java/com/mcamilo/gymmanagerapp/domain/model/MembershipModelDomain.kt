@@ -2,8 +2,8 @@ package com.mcamilo.gymmanagerapp.domain.model
 
 import java.time.LocalDate
 
-data class MonthlyPaymentModelDomain(
-    val idMonthlyPayment: String,
+data class MembershipModelDomain(
+    val idMembership: String,
     val clientId: String,
     val startDate: LocalDate,
     val endDate: LocalDate,
