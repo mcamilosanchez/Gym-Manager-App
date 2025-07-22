@@ -13,7 +13,7 @@ data class UserModelDomain(
 )
 
 enum class RolUser {
-    ADMIN, CLIENT
+    ADMIN, TRAINER, CLIENT
 }
 
 enum class TypeDocument {

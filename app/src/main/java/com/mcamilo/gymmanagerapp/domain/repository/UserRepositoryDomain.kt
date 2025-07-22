@@ -7,5 +7,5 @@ interface UserRepositoryDomain {
     suspend fun getUserByEmail(emailUser: String): UserModelDomain?
     suspend fun addUser(user: UserModelDomain): Boolean
     suspend fun updateUser(user: UserModelDomain): Boolean
-    suspend fun deleteUser(idUser: Int): Boolean
+    suspend fun deleteUser(idUser: String): Boolean
 }
